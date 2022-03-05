@@ -1,19 +1,19 @@
 body {
     background-image: url(img/love\ is\ love.jpg);
     background-size: cover;
-
   
 }
-h6
-{
-    color: aliceblue;
-}
+
 p {
-    color: aliceblue;
+    color: #FC04EC ;
+
 }
 p1 {
     color:aquamarine
 }
+p2 {
+    color: blue;
+}
 p3 {
-    color: #FC04EC ;
+    color: aliceblue;
 }
