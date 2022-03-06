@@ -2,13 +2,3 @@ body {
     background-image: url(img/love\ is\ love.jpg);
     background-size: cover;
 }
-
-div1 {
-    display: flex; justify-content: center;
-
-}
-
-h3 {
-    color:aliceblue
-
-}
