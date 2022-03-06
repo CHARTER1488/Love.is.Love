@@ -9,26 +9,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Love is Love</title>
 </head>
-<body class="container-fluid">
+<body class="container">
+
+  <h1>Love is Love</h1>
+  
 <!--Inicio de menu-->
 
+<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+  <button type="button" class="btn btn-primary">Inicio</button>
+  
 
-    <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html"><p>Inicio</p></a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="#"><h3><p1>Whatsapp</p1></h3></a>
-          <a class="nav-link" href="#"><h3><p2>Facebook</2p></h3>
-          </a>
-          <a class="nav-link" href="#"><h3><p3>Intagram</p3><h3></a>
-        </div>
-      </div>
-    </div>
-  </nav>
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+      Contactos
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+      <li><a class="dropdown-item" href="https://api.whatsapp.com/send?phone=543624703407&text=Hola" target="_blank">Whatsapp</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+    </ul>
+  </div>
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+      Productos
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+      <li><a class="dropdown-item" href="index1.html"target="_blank">Taza baby yoda</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+      <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+
+    </ul>
+  </div>
+</div>
+
 <!--Fin de menu-->
 
 <!--Inicio de imagen flotante-->
