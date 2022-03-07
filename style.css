@@ -3,6 +3,10 @@ body {
     background-size: cover;
   
 }
+div{
+    padding: auto;
+
+}
 
 .button1{
     background-color: #FC04EC 
