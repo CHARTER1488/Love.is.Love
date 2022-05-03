@@ -8,6 +8,13 @@ div{
 
 }
 
+h1 {
+    color: aliceblue;
+    font-family: "cursive";
+    font-style: oblique;
+    text-align: center;
+
+}
 .button1{
     background-color: #FC04EC 
     ;
@@ -64,13 +71,6 @@ div{
 
 
 
-h1 {
-    color: aliceblue;
-    font-family: "cursive";
-    font-style: oblique;
-    text-align: center;
-}
-
 p {
     color: #FC04EC ;
 
@@ -83,4 +83,8 @@ p2 {
 }
 p3 {
     color: aliceblue;
+}
+
+#carouselExampleCaptions{
+    text-align: center;
 }

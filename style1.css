@@ -2,3 +2,10 @@ body {
     background-image: url(img/love\ is\ love.jpg);
     background-size: cover;
 }
+#boton{
+    background-color: #fdf8fc 
+    ;
+    color: rgb(130, 55, 211);
+    border-radius: 5px;
+    font-weight: bold;
+}
