@@ -8,4 +8,7 @@ body {
     color: rgb(130, 55, 211);
     border-radius: 5px;
     font-weight: bold;
+}#imagen{
+    text-align: center;
+    margin-left: 75px;
 }
