@@ -1,6 +1,7 @@
-body {
-    background-image: url(img/love\ is\ love.jpg);
-    background-size: cover;
+.fondo {
+   background-color: #cfbed6;
+   
+  
 }
 #boton{
     background-color: #fdf8fc 
@@ -12,4 +13,13 @@ body {
     text-align: center;
     margin-left: 75px;
     margin-top: 50px;
+}
+.yoda1{
+    width: 18rem;
+    padding: 3px;
+    background-color: rgb(148, 96, 196);
+}
+
+h1,p{
+    color: rgb(255, 255, 255);
 }

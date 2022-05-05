@@ -1,5 +1,5 @@
-body {
-    background-image: url(img/love\ is\ love.jpg);
+.inicio {
+    background-color: #cfbed6;
     background-size: cover;
   
 }
@@ -7,84 +7,29 @@ div{
     padding: auto;
 
 }
+.letrasmenu{
+    color: aliceblue;
+    margin-left: 10px;
+}
+.menu{
+    background-color: rgb(158, 110, 210);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
 
 h1 {
-    color: aliceblue;
-    font-family: "cursive";
+    color: rgb(168, 56, 196);
     font-style: oblique;
     text-align: center;
 
 }
-.button1{
-    background-color: #FC04EC 
-    ;
-    color: aliceblue;
-    border-radius: 5px;
-}
-
-.button12{
-    background-color: #FC70F3;
-    color: aliceblue;
-    border-radius: 5px;
-}
-
-.buttonwhatsapp{
-    background-color:#057006;
-    color: aliceblue;
-    border-radius: 5px;
-    padding-right: 40px;
-    padding-left: 40px;
-    text-decoration: none;
-    text-align: center;
-}
-
-.buttonfacebook{
-    background-color:#2A4BD5;
-    color: aliceblue;
-    border-radius: 5px;
-    padding-right: 40px;
-    padding-left: 40px;
-    text-decoration: none;
-    text-align: center;
-}
-
-
-.buttoninstagram{
-    background-color:#D52AB3;
-    color: aliceblue;
-    border-radius: 5px;
-    padding-right: 40px;
-    padding-left: 40px;
-    text-decoration: none;
-    text-align: center;
-
-}
-
-
-.button123 {
-    background-color: #FBB4F7;
-    color: aliceblue;
-    border-radius: 5px;
-
-    
-}
-
-
-
-p {
-    color: #FC04EC ;
-
-}
-p1 {
-    color:aquamarine
-}
-p2 {
-    color: blue;
-}
-p3 {
-    color: aliceblue;
-}
 
 #carouselExampleCaptions{
     text-align: center;
+}
+
+.imagenes{
+    max-width: 50%;
+    border-radius: 20px;
 }
