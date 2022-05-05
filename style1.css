@@ -15,11 +15,11 @@
     margin-top: 50px;
 }
 .yoda1{
+    background-color: rgb(136, 59, 209);
     width: 18rem;
     padding: 3px;
-    background-color: rgb(148, 96, 196);
 }
 
-h1,p{
+h5,p{
     color: rgb(255, 255, 255);
 }
