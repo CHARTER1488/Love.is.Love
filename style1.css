@@ -1,25 +1,25 @@
-.fondo {
-   background-color: #cfbed6;
-   
-  
-}
-#boton{
-    background-color: #fdf8fc 
-    ;
-    color: rgb(130, 55, 211);
-    border-radius: 5px;
-    font-weight: bold;
-}#imagen{
+.fondo{
     text-align: center;
-    margin-left: 75px;
-    margin-top: 50px;
-}
-.yoda1{
-    background-color: rgb(136, 59, 209);
-    width: 18rem;
-    padding: 3px;
+   background-color: #cfbed6;
+   padding-top: 20px;
 }
 
+.boton{
+    text-decoration: none;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(136, 59, 209);    
+}
+
+.boton:hover{
+    font-size: 18px;
+    color:rgb(136, 59, 209);
+    font-weight: bolder;
+}
+
+
 h5,p{
-    color: rgb(255, 255, 255);
+    color: rgb(251, 251, 252);    
 }

@@ -3,19 +3,28 @@
     background-size: cover;
   
 }
-div{
-    padding: auto;
 
-}
 .letrasmenu{
     color: aliceblue;
-   
+    font-size: 20px;
+}
+.love-grande{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    color: rgb(202, 169, 233);
 }
 .menu{
     background-color: rgb(158, 110, 210);
     padding: 20px;
     font-size: 20px;
-    text-align: center;
+    
+}
+.quienes-somos{
+    background-color: rgb(158, 110, 210);
+}
+.color{
+    color: aliceblue;
 }
 
 h1 {
@@ -30,6 +39,6 @@ h1 {
 }
 
 .imagenes{
-    max-width: 100%;
+    max-width: 50%;
     border-radius: 20px;
 }
